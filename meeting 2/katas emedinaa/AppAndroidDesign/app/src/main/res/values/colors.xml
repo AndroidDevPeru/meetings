@@ -183,4 +183,8 @@
     <color name="Navy">#000080</color>
     <color name="Black">#000000</color>
 
+    <color name="orange">#f26149</color>
+    <!--<color name="black">#000000</color>
+    <color name="white">#ffffff</color>-->
+
 </resources>
